@@ -9,7 +9,7 @@
 
 # Installation
 ```
-git clone --depth=1 https://github.com/ikondrat/ember-seed.git <your-project-name>
+git clone --depth=1 https://github.com/ikondrat/react-seed.git <your-project-name>
 ```
 
 # Run
